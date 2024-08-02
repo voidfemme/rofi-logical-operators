@@ -1,0 +1,10 @@
+# Ignore backup files
+*~
+
+# Ignore compiled files
+*.o
+*.out
+
+# Ignore system files
+.DS_Store
+Thumbs.db
